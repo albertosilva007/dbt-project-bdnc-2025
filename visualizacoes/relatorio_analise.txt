@@ -1,0 +1,33 @@
+================================================================================
+RELATÓRIO DE ANÁLISE: VARIAÇÃO DE INGRESSANTES 60+ ANOS
+================================================================================
+
+PERÍODOS COMPARADOS:
+  • Pré-Pandemia: 2017-2018 (média)
+  • Pós-Pandemia: 2023-2024 (média)
+
+OBSERVAÇÃO: Faixa etária 62-69 anos não disponível nos dados.
+            Análise realizada com faixa 60+ anos (aproximação mais próxima).
+
+--------------------------------------------------------------------------------
+
+MODALIDADE: EAD
+  Média Pré-Pandemia (60+): 0.06
+  Média Pós-Pandemia (60+): 0.04
+  Variação Percentual: -28.53%
+  Tendência: Redução
+
+MODALIDADE: Presencial
+  Média Pré-Pandemia (60+): 0.13
+  Média Pós-Pandemia (60+): 0.18
+  Variação Percentual: 39.37%
+  Tendência: Aumento
+
+--------------------------------------------------------------------------------
+CONCLUSÃO:
+  • A modalidade com maior variação foi: Presencial
+    Variação: 39.37%
+
+  • A mudança foi MAIS ACENTUADA nos cursos PRESENCIAIS
+
+================================================================================
