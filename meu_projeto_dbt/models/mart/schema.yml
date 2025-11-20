@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: mart_variacao_ingressantes_faixa_etaria
+    description: "Análise da variação percentual de ingressantes na faixa etária 60+ comparando pré e pós pandemia, por modalidade de ensino"
+    columns:
+      - name: MODALIDADE_DESCRICAO
+        description: "Descrição da modalidade (Presencial ou EAD)"
+      - name: MEDIA_PRE_60_MAIS
+        description: "Média de ingressantes 60+ no período pré-pandemia"
+      - name: MEDIA_POS_60_MAIS
+        description: "Média de ingressantes 60+ no período pós-pandemia"
+      - name: VARIACAO_PERCENTUAL_60_MAIS
+        description: "Variação percentual de ingressantes 60+ entre pré e pós pandemia"
+      - name: VARIACAO_PERCENTUAL_50_MAIS
+        description: "Variação percentual de ingressantes 50+ entre pré e pós pandemia"
+

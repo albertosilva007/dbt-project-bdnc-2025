@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: raw
+    description: "Dados brutos do censo da educação superior"
+    schema: raw
+    tables:
+      - name: MICRODADOS_CADASTRO_CURSOS_2017
+        description: "Microdados do cadastro de cursos - Ano 2017"
+      - name: MICRODADOS_CADASTRO_CURSOS_2018
+        description: "Microdados do cadastro de cursos - Ano 2018"
+      - name: MICRODADOS_CADASTRO_CURSOS_2023
+        description: "Microdados do cadastro de cursos - Ano 2023"
+      - name: MICRODADOS_CADASTRO_CURSOS_2024
+        description: "Microdados do cadastro de cursos - Ano 2024"
+

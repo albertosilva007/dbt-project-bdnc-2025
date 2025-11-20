@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: stg_cursos_censo
+    description: "Modelo staging que unifica os dados de todos os anos do censo da educação superior"
+    columns:
+      - name: NU_ANO_CENSO
+        description: "Ano do censo"
+      - name: TP_MODALIDADE_ENSINO
+        description: "Tipo de modalidade de ensino (1=Presencial, 2=EAD)"
+      - name: MODALIDADE_DESCRICAO
+        description: "Descrição da modalidade de ensino"
+      - name: QT_ING_60_MAIS
+        description: "Quantidade de ingressantes com 60 anos ou mais"
+      - name: QT_ING_50_MAIS
+        description: "Quantidade de ingressantes com 50 anos ou mais (soma de 50-59 e 60+)"
+      - name: PERIODO_PANDEMIA
+        description: "Classificação do período (Pre-Pandemia ou Pos-Pandemia)"
+
